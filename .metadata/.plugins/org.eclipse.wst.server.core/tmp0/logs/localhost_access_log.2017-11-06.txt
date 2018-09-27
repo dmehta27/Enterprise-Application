@@ -1,0 +1,6 @@
+127.0.0.1 - - [06/Nov/2017:17:52:36 -0600] "GET / HTTP/1.1" 404 1070
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:17:52:37 -0600] "GET /f17g211/ HTTP/1.1" 200 325
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:17:52:41 -0600] "GET /f17g211/faces/javax.faces.resource/oamSubmit.js?ln=org.apache.myfaces HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:17:52:41 -0600] "GET /f17g211/faces/index.jsp HTTP/1.1" 200 5812
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:17:52:46 -0600] "POST /f17g211/faces/index.jsp;jsessionid=ACCDFCFA30BF9811EB42B2F0D99BECCD HTTP/1.1" 200 13192
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:17:52:57 -0600] "POST /f17g211/faces/Login.jsp HTTP/1.1" 200 489

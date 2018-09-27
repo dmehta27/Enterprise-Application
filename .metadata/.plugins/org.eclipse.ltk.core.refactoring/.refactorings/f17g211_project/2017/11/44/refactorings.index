@@ -1,0 +1,6 @@
+1509650420000	Delete element
+1509652002675	Delete element
+1509652323892	Rename compilation unit 'DbAccesInfoBean.java'
+1509653482027	Encapsulate field 'databaseMetaData'
+1509654973291	Encapsulate field 'renderErrorMessage'
+1509654981957	Encapsulate field 'renderSuccessMessage'

@@ -1,0 +1,12 @@
+127.0.0.1 - - [22/Nov/2017:17:50:49 -0600] "GET / HTTP/1.1" 404 1070
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:50:53 -0600] "GET /f17g211/faces/index.jsp HTTP/1.1" 200 6402
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:50:53 -0600] "GET /f17g211/faces/javax.faces.resource/oamSubmit.js?ln=org.apache.myfaces HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:51:10 -0600] "POST /f17g211/faces/index.jsp;jsessionid=780FECC3AC53C68D8159767DA2749AA7 HTTP/1.1" 200 13786
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:51:21 -0600] "POST /f17g211/faces/Login.jsp HTTP/1.1" 200 62474
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:51:27 -0600] "POST /f17g211/faces/DisplayTables.jsp HTTP/1.1" 200 31592
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:51:40 -0600] "POST /f17g211/faces/math.jsp HTTP/1.1" 200 49258
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:54:21 -0600] "POST /f17g211/faces/math.jsp HTTP/1.1" 200 49258
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:54:21 -0600] "GET /f17g211/faces/javax.faces.resource/oamSubmit.js?ln=org.apache.myfaces HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:54:31 -0600] "POST /f17g211/faces/math.jsp HTTP/1.1" 200 49258
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:54:41 -0600] "POST /f17g211/faces/math.jsp HTTP/1.1" 200 49254
+0:0:0:0:0:0:0:1 - - [22/Nov/2017:17:54:51 -0600] "POST /f17g211/faces/math.jsp HTTP/1.1" 200 49250

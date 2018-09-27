@@ -1,0 +1,32 @@
+<root>
+  <facet id="jst.jsf">
+    <node name="libprov">
+      <node name="last-provider-used">
+        <attribute name="2.0" value="jsf-user-library-provider"/>
+        <attribute name="2.2" value="jsf-user-library-provider"/>
+      </node>
+    </node>
+    <node name="user.library.provider">
+      <node name="last.used.libraries">
+        <node name="2.0">
+          <node name="ApacheCommons"/>
+          <node name="ApacheMyFaces (JSF 2.2)"/>
+          <node name="ApacheTomahawk (1.1.14 JSF 2.0)"/>
+          <node name="JSTL (1.2.1)"/>
+          <node name="JSTL (1.2.5)"/>
+          <node name="MySQL (5.1.x)"/>
+          <node name="jfreeChart (1.0.19)"/>
+        </node>
+        <node name="2.2">
+          <node name="ApacheCommons"/>
+          <node name="ApacheMyFaces (JSF 2.2)"/>
+          <node name="ApacheTomahawk (1.1.14 JSF 2.0)"/>
+          <node name="JSTL (1.2.1)"/>
+          <node name="JSTL (1.2.5)"/>
+          <node name="MySQL (5.1.x)"/>
+          <node name="jfreeChart (1.0.19)"/>
+        </node>
+      </node>
+    </node>
+  </facet>
+</root>
